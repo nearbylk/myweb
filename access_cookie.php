@@ -8,7 +8,7 @@ if(isset($_COOKIE["name"]))
 }
 else
 {
-	echo "Hello new user";
+	echo "Hello new user1";
 }
 ?> 
 </body> </html>
